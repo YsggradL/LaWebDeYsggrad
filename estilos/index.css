@@ -37,7 +37,7 @@ body {
     margin: 0.7cqw;
     padding: 0.6cqw;
     font-size: 2cqw;
-    transition-duration: background-color 0.3s;
+    transition: background-color 0.3s;
     border-radius: 10px;
     text-decoration: none;
 }
